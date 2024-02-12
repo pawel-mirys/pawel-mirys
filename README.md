@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning how to be Frontend Developer.<br>
+🌱 I’m currently learning how to be a Frontend Developer.<br>
 
 
 ## 🌐 Socials:
